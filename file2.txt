@@ -4,3 +4,9 @@ Good buy!+++
 Line from user2
 user2
 some
+
+
+
+
+------------------
+critical fixed
